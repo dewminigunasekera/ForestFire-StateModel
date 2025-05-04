@@ -1,7 +1,7 @@
 
 # Forest Fire Modeling: A Statistical Mechanics Perspective
 
-This repository contains a spatial-temporal analysis of forest fires in Portugal, with a critical evaluation of standard regression-based modeling. Using data visualization, coordinate-wise recurrence analysis, and insights from statistical mechanics, we argue that fire behavior exhibits state-transition characteristics that invalidate naive regression approaches.
+This repository contains a spatial-temporal analysis of forest fires in Portugal (the infmous UCI forestfire dataset), with a critical evaluation of standard regression-based modeling. Using data visualization, coordinate-wise recurrence analysis, and insights from statistical mechanics, we argue that fire behavior exhibits state-transition characteristics that invalidate naive regression approaches.
 
 ## 🧠 Core Insight
 
